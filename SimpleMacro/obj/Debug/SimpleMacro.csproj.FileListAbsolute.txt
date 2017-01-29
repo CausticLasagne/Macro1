@@ -1,0 +1,10 @@
+c:\users\rainbow\documents\visual studio 2015\Projects\SimpleMacro\SimpleMacro\bin\Debug\SimpleMacro.exe.config
+c:\users\rainbow\documents\visual studio 2015\Projects\SimpleMacro\SimpleMacro\bin\Debug\SimpleMacro.exe
+c:\users\rainbow\documents\visual studio 2015\Projects\SimpleMacro\SimpleMacro\bin\Debug\SimpleMacro.pdb
+c:\users\rainbow\documents\visual studio 2015\Projects\SimpleMacro\SimpleMacro\obj\Debug\SimpleMacro.csprojResolveAssemblyReference.cache
+c:\users\rainbow\documents\visual studio 2015\Projects\SimpleMacro\SimpleMacro\obj\Debug\SimpleMacro.Form1.resources
+c:\users\rainbow\documents\visual studio 2015\Projects\SimpleMacro\SimpleMacro\obj\Debug\SimpleMacro.Properties.Resources.resources
+c:\users\rainbow\documents\visual studio 2015\Projects\SimpleMacro\SimpleMacro\obj\Debug\SimpleMacro.csproj.GenerateResource.Cache
+c:\users\rainbow\documents\visual studio 2015\Projects\SimpleMacro\SimpleMacro\obj\Debug\SimpleMacro.exe
+c:\users\rainbow\documents\visual studio 2015\Projects\SimpleMacro\SimpleMacro\obj\Debug\SimpleMacro.pdb
+c:\users\rainbow\documents\visual studio 2015\Projects\SimpleMacro\SimpleMacro\obj\Debug\SimpleMacro.Form2.resources
